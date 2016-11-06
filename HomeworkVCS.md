@@ -12,8 +12,8 @@ https://github.com/tarasandrushko
 
 Створив папку taras.andrushko з файлом HELLO.txt 
 Зробив :
-git add .   
-   git ci -m “made my personal directory in personal folder”
+git add .     ,  
+   git ci -m “made my personal directory in personal folder”  ,
     git push
 https://github.com/tarasandrushko/welcome-to-github/commit/e91e9d0f4e5a4ac0a35a0eff19c5bd772e36f619
 Edit the "list-of-users.txt" and add your name:
