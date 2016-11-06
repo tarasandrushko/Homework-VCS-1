@@ -10,7 +10,7 @@ https://github.com/tarasandrushko
 #3.
 ![консолька](https://pp.vk.me/c637831/v637831543/19004/g5IxqhRE7HQ.jpg)
 
-Створив папку taras.andrushko з файлов HELLO.txt 
+Створив папку taras.andrushko з файлом HELLO.txt 
 Зробив :
 git add .   
    git ci -m “made my personal directory in personal folder”
@@ -32,6 +32,7 @@ https://github.com/tarasandrushko/hello-world-github
 #8.
 Створив пустий репозиторій hello-world-git,склонував його до себе на комп'ютер та створив декілька нових файлів.Закомітив їх та запушив на Github у свій репозиторій.
 ![консолька](https://pp.vk.me/c637831/v637831543/1904c/K1_D6JGQ1RU.jpg)
+   https://github.com/tarasandrushko/hello-world-git
 #9.
 Я зробив репозиторій з назвою tarasandrushko.github.io, склонував собі його на компьютер, зайшов в цю папку і зробив файл під назвою index.html (написав зовсім малий html code ) і завантажив його на сайт за допомогою консолі.Використав команди як git add . ,git commit -m "",git push .Після цього я просто зайшов на ссилку https://tarasandrushko.github.io/. Після цього я зробив новий репозиторій з назвою testing-the-github-pages, створив в ньому бренчу з назвою "gh-pages" і поставив її дефолтною бренчою в репозиторії через настройки(https://github.com/tarasandrushko/testing-the-github-pages/settings/branches).Далі я добавив index.txt файл з описом "HELLO EVERYBODY"  на репозиторій та перейшов по посиланню https://tarasandrushko.github.io/testing-the-github-pages/. Перший репозиторій (https://github.com/tarasandrushko/tarasandrushko.github.io)
 Другий репозиторій (https://github.com/tarasandrushko/testing-the-github-pages)
