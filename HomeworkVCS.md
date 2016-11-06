@@ -9,11 +9,12 @@ https://github.com/cursor-education/welcome-to-github/pull/140/commits/ad5fd2a38
 https://github.com/tarasandrushko
 #3.
 ![консолька](https://pp.vk.me/c637831/v637831543/19004/g5IxqhRE7HQ.jpg)
+
 Створив папку taras.andrushko з файлов HELLO.txt 
-Зробив 
-git add .
-git ci -m “made my personal directory in personal folder”
-git push
+Зробив :
+git add .   
+   git ci -m “made my personal directory in personal folder”
+    git push
 https://github.com/tarasandrushko/welcome-to-github/commit/e91e9d0f4e5a4ac0a35a0eff19c5bd772e36f619
 Edit the "list-of-users.txt" and add your name:
 https://github.com/tarasandrushko/welcome-to-github/commit/ad5fd2a383f7e447a6fadd2c29679e1d3e34a31c
