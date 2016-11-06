@@ -21,8 +21,12 @@ https://github.com/tarasandrushko/welcome-to-github/commit/ad5fd2a383f7e447a6fad
 #4.
 ![перший сайт](https://pp.vk.me/c637831/v637831543/19021/Rx-2QJdlyg4.jpg)
 ![другий сайт](https://pp.vk.me/c637831/v637831543/1903b/OpHhyjn2Bbk.jpg)
+
+Пройов ці 2 гри,досить цікаво і пізнавально.
 #5.
 ![сайт](https://pp.vk.me/c637831/v637831543/19017/gVvHcHDObFo.jpg)
+
+Цікавий і корисний сайт для команд з Gitом.
 #6.
 Створив текстовий файл з більше ніж 100 символами,за допомогою консольки закомітив та запушив його,потім зробив зміни та знову закомітив і запушив.
 https://github.com/tarasandrushko/hello-world-github
